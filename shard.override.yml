@@ -1,0 +1,4 @@
+dependencies:
+  avram:
+    github: matthewmcgarvey/avram
+    branch: through-array-has-many
